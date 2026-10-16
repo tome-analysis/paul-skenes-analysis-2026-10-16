@@ -12,7 +12,7 @@ MLB選手ポール・スキーンズの2025年シーズンの投球データを�
 
 分析内容の詳細はこちら：
 
-［note記事のURLを追加］
+https://note.com/tome_baseball/n/nd346073346bc?app_launch=false
 
 ## 使用技術
 
